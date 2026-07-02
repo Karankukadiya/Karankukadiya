@@ -7,8 +7,6 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ1YjBudzZpeXVoMGFqcDh2eWd1bWplOXA5cWxicTEyNWYwZmEzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on [Customer Churn Prediction](https://github.com/Karankukadiya/Customer-Churn-Prediction)
-
 - 👨‍💻 All of my projects are available at [https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/)
 
 - 📫 How to reach me **karankukadiyaa@gmail.com**
