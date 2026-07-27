@@ -1,25 +1,100 @@
-<img src="https://raw.githubusercontent.com/Karankukadiya/Karankukadiya/main/deng-xiang--WXQm_NTK0U-unsplash.jpg" alt="Data Analytics Banner" width="100%" height="350px"/>
+<div align="center">
 
---- 
+# Hi 👋, I'm Karan Kukadiya
 
-<h1 align="center">Hi 👋, I'm Karan Kukadiya</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ1YjBudzZpeXVoMGFqcDh2eWd1bWplOXA5cWxicTEyNWYwZmEzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+### Data Analyst + Data Engineer turning raw data into decisions
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karankukadiya/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karankukadiyaa@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/)
+</div>
 
-- 📫 How to reach me **karankukadiyaa@gmail.com**
+---
 
-- 📄 Know about my experiences [https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/)
+### 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karankukadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karankukadiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karankukadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karankukadiya" height="30" width="40" /></a>
-</p>
+- 🔍 I turn messy data into clean pipelines, dashboards, and insights
+- 🛠️ Comfortable across the full stack — from ETL pipelines to BI dashboards to predictive models
+- 📊 All my projects live on my **[Portfolio](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/)**
+- 📫 Reach me at **karankukadiyaa@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+### 🧰 Tech Stack
 
+**SQL**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+
+Joins · Window Functions · CTEs · Subqueries · Query Optimization · Basic PL/SQL
+
+**Python**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+Matplotlib · Seaborn · BeautifulSoup · Data Cleaning · Preprocessing · EDA · Data Validation
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+
+DAX · Power Query · Data Modeling · KPI Reporting · Pivot Tables · XLOOKUP/VLOOKUP · Power Pivot
+
+**Data Engineering**
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+ETL Pipeline Development · Task Orchestration & Scheduling · Idempotent Data Loads · Workflow Automation
+
+**Machine Learning**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square&logo=xgboost&logoColor=white)
+
+Regression · Classification · Logistic Regression · Random Forest · Feature Engineering · Model Evaluation · Predictive Analytics
+
+**Statistics & Analytics**
+
+Descriptive Statistics · Hypothesis Testing · Correlation Analysis · Business Analytics · Business Intelligence
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Oracle SQL Developer · MS Office (Excel, PowerPoint, Word) · Google Sheets
+
+---
+
+### 🎯 Core Skills
+
+`Data Analysis` `Machine Learning` `Data Visualization` `Data Management` `Dashboard Development` `Business Reporting` `Data Storytelling` `Process Improvement`
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karankukadiya&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karankukadiya&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [Portfolio](https://karankukadiya.github.io/Karan-Kukadiya-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/karankukadiya/) · [Email](mailto:karankukadiyaa@gmail.com)
+
+</div>
