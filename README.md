@@ -86,7 +86,6 @@ Oracle SQL Developer · MS Office (Excel, PowerPoint, Word) · Google Sheets
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karankukadiya&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karankukadiya&theme=dark&hide_border=true)
 
 </div>
