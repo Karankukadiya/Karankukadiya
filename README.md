@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karankukadiya/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karankukadiyaa@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=karankukadiya\&style=for-the-badge)
+
 </div>
 
 ---
