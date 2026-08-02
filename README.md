@@ -14,6 +14,16 @@
 
 ---
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Blue+Team+Cybersecurity;SOC+Analyst;Threat+Monitoring;Log+Analysis;Incident+Response;Detecting+Anomalies">
+</p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Curiosity;Analysis;Clarity;Impact&center=true&width=750&height=50">
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🔍 I turn messy data into clean pipelines, dashboards, and insights
